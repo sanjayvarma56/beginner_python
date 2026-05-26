@@ -1,4 +1,4 @@
-#Monte Carlo Slot Machine Simulation
+#Monte Carlo Slot Machine Simulation(Casino)
 # ---------------------------------------------------
 # SLOT MACHINE CASINO GAME RULES
 # ---------------------------------------------------
